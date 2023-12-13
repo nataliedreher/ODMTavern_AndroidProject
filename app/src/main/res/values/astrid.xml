@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="astrid_intro">
+        Astrid slips in quietly, her nimble steps and mischievous grin hinting at her expertise in the art of stealth, her eyes scanning the room for any sign of adventure. Surprise me with your sneakiest specialty cocktail, something that slips down smoothly without a trace. Been dodging trouble today, could use a drink that\'s equally elusive.
+    </string>
+    <string-array name="player_astrid">
+        <item>A drink as elusive as the day\'s challenges? May it bring a bit of clarity and ease.</item>
+        <item>Here\'s to hoping your drink doesn\'t vanish before you get a taste of it, much like the troubles you\'ve been dodging.</item>
+        <item>An elusive drink for a master of the art of slipping away... Maybe I could learn a trick or two?</item>
+        <item>p4</item>
+        <item>p5</item>
+        <item>p6</item>
+        <item>p7</item>
+        <item>p8</item>
+        <item>p9</item>
+        <item>p10</item>
+        <item>p11</item>
+        <item>p12</item>
+    </string-array>
+    <string-array name="astrid_resp">
+        <item>r1</item>
+        <item>r2</item>
+        <item>r3</item>
+        <item>r4</item>
+        <item>r5</item>
+        <item>r6</item>
+        <item>r7</item>
+        <item>r8</item>
+        <item>r9</item>
+        <item>r10</item>
+        <item>r11</item>
+        <item>r12</item>
+
+    </string-array>
+    <integer-array name="astrid_tip">
+        <item>1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>5</item>
+        <item>10</item>
+        <item>6</item>
+        <item>12</item>
+        <item>2</item>
+        <item>16</item>
+        <item>20</item>
+        <item>6</item>
+        <item>32</item>
+    </integer-array>
+</resources>

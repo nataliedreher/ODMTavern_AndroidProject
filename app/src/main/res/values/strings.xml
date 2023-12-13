@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">O.D.M. Tavern</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="opening_q1">What is your name?</string>
+    <string name="opening_a1_resp">I don\'t like that name, your name is now Gravy.</string>
+    <string name="opening_q2">What are your pronouns?</string>
+    <string name="opening_a2_a" class="q2_choice">She/Her</string>
+    <string name="opening_a2_b" class="q2_choice">He/Him</string>
+    <string name="opening_a2_c" class="q2_choice">They/Them</string>
+    <string name="opening_q3">What\'s your age?</string>
+    <string name="opening_a3_a">0 to 12 months</string>
+    <string name="opening_a3_a_resp">Aww, is this baby\'s first game?</string>
+    <string name="opening_a3_b">1 to 10 years</string>
+    <string name="opening_a3_b_resp">You\'re too young for a game of this sophistication.</string>
+    <string name="opening_a3_c">11 to 21 years</string>
+    <string name="opening_a3_c_resp">So you\'re a moody adolescent?</string>
+    <string name="opening_a3_d">22 to 30 years</string>
+    <string name="opening_a3_d_resp">You\'re just starting to get cool…</string>
+    <string name="opening_a3_e">30 years &amp; up</string>
+    <string name="opening_a3_e_resp">Dang, you\'re old.</string>
+    <string name="opening_q4">What are your pronouns?</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="third_fragment_label">Third Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="intro1">
+        Your name is %1$s, and you\'ve recently taken up the role of tavern-keeper at the curiously named Ye Olde Dank Musk, a place that sits comfortably in the realms of lower-midrange taverns. As you turn the key to unlock the heavy wooden door, the creaking protest of its hinges heralds the beginning of another evening. But before you can fully step in, a sudden commotion startles you. The door barely ajar, your mother barges in, her expression a blend of worry and urgency.
+    </string>
+    <string name="intro2">
+        \"Sweetheart, I know you\'re just starting here, but I\'ve gotten myself into a bit of trouble.\" Your mother\'s voice quivers with concern as she clasps your hand tightly. \"I need to come up with 500 gold by the week\'s end, or they\'ll take our home. I\'ve been trying to sort this mess, but time\'s caught up with me.\"
+    </string>
+    <string name="intro3">
+        Her eyes, usually filled with warmth, now carry the weight of worry and a hint of regret. \"I never meant for this burden to fall on your shoulders, but I\'ve run out of options. Please, %1$s, I need your help.\" The desperation in her voice tugs at your heartstrings, urging you to act swiftly to save the family\'s sanctuary.
+    </string>
+    <string name="intro4">
+        After she leaves you go back to the bar, it\'s not long until your first customer walks in…
+    </string>
+
+    <string name="isolde_drink">I\'ll have an ale</string>
+    <string name="isolde1">Ugh, I\'ve had the worst day…</string>
+    <string name="day_end">
+        You made %1$d gold today! The total amount of gold you have is %2$d which means you %3$s mother\'s debt.
+    </string>
+    <string name="fail_message">
+        As the days passed with relentless speed, the weight of the your mother\'s debts grew heavier on your shoulders. Despite your relentless efforts and tireless nights serving drinks and seeking patrons, the target remained elusive. The final day arrived like an executioner, bringing with it the bitter realization that your earnings fell short. You stood, the weight of failure crushing your spirit, facing not just your own uncertain future but also the heartbreak of having failed your mother. With the debt unpaid, the looming threat of losing both your home and livelihood became a grim reality. Together, you and your mother found yourselves on the unforgiving streets, homeless and adrift in a world that had turned its back on your struggles.
+    </string>
+    <string name="day2">
+        The crackling dawn heralded the tavern\'s awakening. With a weary yet determined sigh, you swung open the heavy oak doors, greeting the early sunlight streaming into the hallowed halls. The scent of polished wood and aged spirits mingled, inviting patrons in with promises of camaraderie and respite from the world outside.
+    </string>
+    <string name="day3">
+        As the first light filtered through the windows, you briskly arranged tables, casting a hopeful glance toward the hearth, yearning for its warm embrace to lure in the morning\'s patrons. The clinking of glasses and the gentle hum of anticipation slowly filled the air, setting the stage for yet another day\'s unfolding drama within Ye Olde Dank Musk.
+    </string>
+    <string name="day4">
+        With a practiced hand, you straightened the last crooked chair, surveying the tavern\'s transformation from an empty canvas to a bustling sanctuary. The familiar routine danced to life as you readied the taps, dusted off shelves, and prepared for the harmonious chaos about to unfold within the welcoming embrace of your beloved tavern.
+    </string>
+    <string name="day5">
+        The tavern doors creaked open, beckoning the world outside to step into a realm of stories and laughter. A familiar warmth settled within the walls, anticipating the stories, sorrows, and fleeting moments that would echo through the wooden beams until the final patron departed into the night.
+    </string>
+
+</resources>

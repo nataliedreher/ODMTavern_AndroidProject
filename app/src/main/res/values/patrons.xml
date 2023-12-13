@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="patrons_array">
+        <item>Isolde</item>
+        <item>Seraphina</item>
+        <item>Astrid</item>
+        <item>Rowena</item>
+        <item>Elara</item>
+        <item>Gwendolyn</item>
+        <item>Thalia</item>
+        <item>Morrigan</item>
+        <item>Freyja</item>
+        <item>Runa</item>
+        <item>Elowen</item>
+        <item>Alaric</item>
+        <item>Percival</item>
+        <item>Dorian</item>
+        <item>Thaddeus</item>
+        <item>Magnus</item>
+        <item>Cedric</item>
+        <item>Sigurdur</item>
+        <item>Brolin</item>
+        <item>Ember</item>
+        <item>Tenderheart</item>
+    </string-array>
+
+    <string-array name="patrons_player_ids" translatable="false">
+        <item>player_isolde</item>
+        <item>player_seraphina</item>
+        <item>player_astrid</item>
+        <item>player_rowena</item>
+        <item>player_elara</item>
+        <item>player_gwendolyn</item>
+        <item>player_thalia</item>
+        <item>player_morrigan</item>
+        <item>player_freyja</item>
+        <item>player_runa</item>
+        <item>player_elowen</item>
+        <item>player_alaric</item>
+        <item>player_percival</item>
+        <item>player_dorian</item>
+        <item>player_thaddeus</item>
+        <item>player_magnus</item>
+        <item>player_cedric</item>
+        <item>player_sigurdur</item>
+        <item>player_brolin</item>
+        <item>player_ember</item>
+        <item>player_tenderheart</item>
+    </string-array>
+
+    <string-array name="patrons_resp_ids" translatable="false">
+        <item>isolde_resp</item>
+        <item>seraphina_resp</item>
+        <item>astrid_resp</item>
+        <item>rowena_resp</item>
+        <item>elara_resp</item>
+        <item>gwendolyn_resp</item>
+        <item>thalia_resp</item>
+        <item>morrigan_resp</item>
+        <item>freyja_resp</item>
+        <item>runa_resp</item>
+        <item>elowen_resp</item>
+        <item>alaric_resp</item>
+        <item>percival_resp</item>
+        <item>dorian_resp</item>
+        <item>thaddeus_resp</item>
+        <item>magnus_resp</item>
+        <item>cedric_resp</item>
+        <item>sigurdur_resp</item>
+        <item>brolin_resp</item>
+        <item>ember_resp</item>
+        <item>tenderheart_resp</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="elara_intro">
+        Elara gracefully enters, her silvery robes trailing behind her like whispers of magic, a faint luminescence outlining her as if the very air around her held secrets of ancient spells.\n\n"A glass of the finest elven mead, please. Something that shimmers like moonlight on a river, if you have it. It\'s been a day filled with casting enchantments; a soothing drink is much needed."
+    </string>
+    <string-array name="player_elara">
+        <item>Sounds like your day was a whirlwind of enchantments! I hope a moment of respite with your drink can weave a sense of calm.</item>
+        <item>Dodging trouble and seeking an elusive drink, huh? Careful, or that elixir might just disappear like your sneaky adversaries.</item>
+        <item>Ah, enchantress of the day, weaving magic and seeking solace in a drink that shimmers like moonlight. I\'d offer my company, but I fear I\'d pale in comparison to your mystical aura.</item>
+        <item>p4</item>
+        <item>p5</item>
+        <item>p6</item>
+        <item>p7</item>
+        <item>p8</item>
+        <item>p9</item>
+        <item>p10</item>
+        <item>p11</item>
+        <item>p12</item>
+    </string-array>
+    <string-array name="elara_resp">
+        <item>Thank you. A bit of tranquility after a day of enchanting chaos would be most welcome.</item>
+        <item>Perhaps, but I doubt even a sneaky drink could escape me tonight.</item>
+        <item>Your company might just add to the enchantment of the evening, wouldn\'t it?</item>
+        <item>r4</item>
+        <item>r5</item>
+        <item>r6</item>
+        <item>r7</item>
+        <item>r8</item>
+        <item>r9</item>
+        <item>r10</item>
+        <item>r11</item>
+        <item>r12</item>
+
+    </string-array>
+    <integer-array name="elara_tip">
+        <item>1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>5</item>
+        <item>10</item>
+        <item>6</item>
+        <item>12</item>
+        <item>2</item>
+        <item>16</item>
+        <item>20</item>
+        <item>6</item>
+        <item>32</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sigurdur_intro">
+        Sigurdur storms in with a sailor\'s swagger, the scent of the sea clinging to him, tales of distant lands and ocean adventures etched into the lines of his weathered face. Bring me a drink that carries the essence of the sea, a taste that resonates with the salt-kissed air of the ocean.
+    </string>
+    <string-array name="player_sigurdur">
+        <item>A drink that carries the scent of the sea. May it offer a moment\'s respite from the vastness of the ocean.</item>
+        <item>Watch out, that drink might set sail on its own voyage.</item>
+        <item>A sailor seeking a drink that echoes the sea\'s depth. Maybe my company could add a different kind of adventure?</item>
+        <item>p4</item>
+        <item>p5</item>
+        <item>p6</item>
+        <item>p7</item>
+        <item>p8</item>
+        <item>p9</item>
+        <item>p10</item>
+        <item>p11</item>
+        <item>p12</item>
+    </string-array>
+    <string-array name="sigurdur_resp">
+        <item>r1</item>
+        <item>r2</item>
+        <item>r3</item>
+        <item>r4</item>
+        <item>r5</item>
+        <item>r6</item>
+        <item>r7</item>
+        <item>r8</item>
+        <item>r9</item>
+        <item>r10</item>
+        <item>r11</item>
+        <item>r12</item>
+
+    </string-array>
+    <integer-array name="sigurdur_tip">
+        <item>1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>5</item>
+        <item>10</item>
+        <item>6</item>
+        <item>12</item>
+        <item>2</item>
+        <item>16</item>
+        <item>20</item>
+        <item>6</item>
+        <item>32</item>
+    </integer-array>
+</resources>

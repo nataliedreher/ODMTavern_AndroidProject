@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="magnus_intro">
+        Magnus enters with quiet strength, his massive frame and the echo of clinking metal announcing his arrival, the weight of craftsmanship evident in his powerful yet careful movements. A mug of your strongest brew, something that embodies the resilience of forged steel.
+    </string>
+    <string-array name="player_magnus">
+        <item>A drink as sturdy as the metal you forge. May it offer a moment\'s respite from the heat of the forge.</item>
+        <item>Strong ale for a strong day, but watch out, it might forge its own way out of the tankard!</item>
+        <item>A smith seeking a drink as strong as his craftsmanship. Maybe my company could add a different kind of strength?</item>
+        <item>p4</item>
+        <item>p5</item>
+        <item>p6</item>
+        <item>p7</item>
+        <item>p8</item>
+        <item>p9</item>
+        <item>p10</item>
+        <item>p11</item>
+        <item>p12</item>
+    </string-array>
+    <string-array name="magnus_resp">
+        <item>r1</item>
+        <item>r2</item>
+        <item>r3</item>
+        <item>r4</item>
+        <item>r5</item>
+        <item>r6</item>
+        <item>r7</item>
+        <item>r8</item>
+        <item>r9</item>
+        <item>r10</item>
+        <item>r11</item>
+        <item>r12</item>
+
+    </string-array>
+    <integer-array name="magnus_tip">
+        <item>1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>5</item>
+        <item>10</item>
+        <item>6</item>
+        <item>12</item>
+        <item>2</item>
+        <item>16</item>
+        <item>20</item>
+        <item>6</item>
+        <item>32</item>
+    </integer-array>
+</resources>

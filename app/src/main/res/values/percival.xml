@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="percival_intro">
+        Percival glides in, an elegant figure with robes billowing as if caught in an unseen breeze, the flicker of magical energy dancing around his fingertips. A potion-like elixir, please. Something that shimmers with arcane mysteries and whispers of enchantment.
+    </string>
+    <string-array name="player_percival">
+        <item>A drink as enchanting as your sorcery. May it offer a moment of tranquility amidst the day\'s chaos.</item>
+        <item>Careful, that drink might just cast its own spells.</item>
+        <item>Ah, the sorcerer and his spells weaving through the day\'s chaos. Perhaps I could add a touch of magic to your evening?</item>
+        <item>p4</item>
+        <item>p5</item>
+        <item>p6</item>
+        <item>p7</item>
+        <item>p8</item>
+        <item>p9</item>
+        <item>p10</item>
+        <item>p11</item>
+        <item>p12</item>
+    </string-array>
+    <string-array name="percival_resp">
+        <item>r1</item>
+        <item>r2</item>
+        <item>r3</item>
+        <item>r4</item>
+        <item>r5</item>
+        <item>r6</item>
+        <item>r7</item>
+        <item>r8</item>
+        <item>r9</item>
+        <item>r10</item>
+        <item>r11</item>
+        <item>r12</item>
+
+    </string-array>
+    <integer-array name="percival_tip">
+        <item>1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>5</item>
+        <item>10</item>
+        <item>6</item>
+        <item>12</item>
+        <item>2</item>
+        <item>16</item>
+        <item>20</item>
+        <item>6</item>
+        <item>32</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="isolde_intro">
+        You see Isolde Thornbrook walk into the tavern. She is a tall human and she is the local potionmaker.
+    </string>
+    <string-array name="player_isolde">
+        <item>I\'m sorry to hear that, Isolde. Anything specific that happened?</item>
+        <item>You think that\'s bad? Try dodging fireballs while dealing with unruly patrons. Now that\'s a bad day.</item>
+        <item>Ah, the universe must\'ve conspired to give you a reason to seek solace in the stars tonight. Consider me your celestial remedy for the woes of the day.</item>
+
+        <item>Seems like quite the adventurous day! Is dealing with cranky centaurs a regular occurrence around here?</item>
+        <item>Spilling potions and centaur drama? Sounds like the recipe for a thrilling memoir.</item>
+        <item>Spilled potion, cranky centaur... Sounds like you needed a bit of magic to turn that day around. Maybe I can offer some enchantment to make it better?</item>
+
+        <item>You\'re absolutely right, Isolde. I didn\'t mean to downplay your day. I\'m here to listen if you need to vent about it.</item>
+        <item>I guess we\'re both having a day, huh? Dodging fireballs or dealing with spilled potions, it\'s all part of the grand adventure.</item>
+        <item>You\'re absolutely right, Isolde. Empathy is essential. So, how about I make it up to you by being the most empathetic company over a drink tonight?</item>
+
+        <item>I\'d be honored to accompany you under the stars, Isolde. There\'s something magical about finding solace amidst the twinkling constellations.</item>
+        <item>Well, I hope the stars have better luck than I do at preventing spilled potions and cranky centaurs.</item>
+        <item>Consider me your shooting star tonight, ready to grant any wish you desire under this celestial canopy.</item>
+    </string-array>
+    <string-array name="isolde_resp">
+        <item>Oh, you know, the usual. Got caught in a downpour, spilled an entire potion on myself, and then had to deal with a cranky centaur. Just a regular day in my life.</item>
+        <item>Sure, dodging fireballs must be a real hassle, but it doesn\'t discount the frustration of my day. A little empathy goes a long way, you know.</item>
+        <item>Well, if you\'re offering such cosmic remedies, I might just have to take you up on that. It\'s a lovely thought, finding solace under the stars with good company. Thank you.</item>
+        <item>Thankfully not, but today seemed to be their day for causing chaos. I\'ll take a regular day of serving over that any time.</item>
+        <item>If I ever decide to write one, that would make an interesting chapter. But for now, I\'ll settle for a less dramatic routine, thank you.</item>
+        <item>If your magic can guarantee no more spilled potions, I might just take you up on that offer. Otherwise, I think I\'ll survive with the chaos of today behind me.</item>
+        <item>Thanks, I appreciate that. Sometimes just having someone to talk to makes the frustrations easier to handle.</item>
+        <item>True, it\'s a mad world out there. Let\'s hope our next days involve fewer dramatic incidents, shall we?</item>
+        <item>Flattery will get you everywhere, but it won\'t erase the chaos of the day. Still, a drink and good company might just be the remedy I need.</item>
+        <item>Absolutely, the stars have a way of making everything feel a bit lighter, don\'t they?</item>
+        <item>Maybe we should look for a \'luck\' constellation tonight. It might balance out our chaotic days.</item>
+        <item>A shooting star, huh? Well, I might have a wish or two in mind, if you\'re up for playing the part.</item>
+    </string-array>
+    <integer-array name="isolde_tip">
+        <item>1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>5</item>
+        <item>10</item>
+        <item>6</item>
+        <item>12</item>
+        <item>2</item>
+        <item>16</item>
+        <item>20</item>
+        <item>6</item>
+        <item>32</item>
+    </integer-array>
+</resources>

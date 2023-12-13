@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="runa_intro">
+        Runa enters with purpose, the clinking of her sturdy armor announcing her arrival, her strong hands calloused from forging, a determined glint in her eyes. \n\n"A tankard of your strongest ale, a brew that feels as sturdy as the metal I forge. The clang of hammers and the heat of the forge made for a long day, a robust drink\'s in order."
+    </string>
+    <string-array name="player_runa">
+        <item>A day of forging requires a sturdy drink. May it match the strength of the metal you work with.</item>
+        <item>Strong ale for a strong day, but hope it doesn\'t forge its way out of your tankard.</item>
+        <item>A tankard as sturdy as your resolve. Maybe my company could add a different kind of strength?</item>
+        <item>p4</item>
+        <item>p5</item>
+        <item>p6</item>
+        <item>p7</item>
+        <item>p8</item>
+        <item>p9</item>
+        <item>p10</item>
+        <item>p11</item>
+        <item>p12</item>
+    </string-array>
+    <string-array name="runa_resp">
+        <item>r1</item>
+        <item>r2</item>
+        <item>r3</item>
+        <item>r4</item>
+        <item>r5</item>
+        <item>r6</item>
+        <item>r7</item>
+        <item>r8</item>
+        <item>r9</item>
+        <item>r10</item>
+        <item>r11</item>
+        <item>r12</item>
+
+    </string-array>
+    <integer-array name="runa_tip">
+        <item>1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>5</item>
+        <item>10</item>
+        <item>6</item>
+        <item>12</item>
+        <item>2</item>
+        <item>16</item>
+        <item>20</item>
+        <item>6</item>
+        <item>32</item>
+    </integer-array>
+</resources>

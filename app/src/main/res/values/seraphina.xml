@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="seraphina_intro">
+        Seraphina bounds in with bubbling enthusiasm, her pockets filled with vials and pouches of mysterious ingredients, her eyes sparkling with the anticipation of alchemical discoveries. A concoction of your own creation, perhaps? Surprise me with your most exotic potion-like beverage. Today\'s experiments were... let\'s say, eventful. I need a drink that defies expectations.
+    </string>
+
+    <string-array name="player_seraphina">
+        <item>An eventful day of experiments calls for a drink that defies the ordinary. May it surprise and delight.</item>
+        <item>Experiments, huh? Just don\'t turn yourself into a new potion with that drink.</item>
+        <item>Your mastery of surprises is captivating. Maybe a drink and a few more surprises would make for an interesting night?</item>
+        <item>p4</item>
+        <item>p5</item>
+        <item>p6</item>
+        <item>p7</item>
+        <item>p8</item>
+        <item>p9</item>
+        <item>p10</item>
+        <item>p11</item>
+        <item>p12</item>
+    </string-array>
+    <string-array name="seraphina_resp">
+        <item>r1</item>
+        <item>r2</item>
+        <item>r3</item>
+        <item>r4</item>
+        <item>r5</item>
+        <item>r6</item>
+        <item>r7</item>
+        <item>r8</item>
+        <item>r9</item>
+        <item>r10</item>
+        <item>r11</item>
+        <item>r12</item>
+
+    </string-array>
+    <integer-array name="seraphina_tip">
+        <item>1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>5</item>
+        <item>10</item>
+        <item>6</item>
+        <item>12</item>
+        <item>2</item>
+        <item>16</item>
+        <item>20</item>
+        <item>6</item>
+        <item>32</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cedric_intro">
+        Cedric enters with an aura of wilderness, a quiver on his back and a bow in hand, his eyes sharp and observant, taking in the tavern with the instinct of a hunter. \n\n"I\'ll take a drink that reflects the untamed wilderness, perhaps something as refreshing and wild as a forest stream."
+    </string>
+    <string-array name="player_cedric">
+        <item>A drink that echoes the wilderness after a day attuned to nature\'s rhythm. May it offer a moment of connection.</item>
+        <item>Be careful, that drink might just have its own wild spirit and wander off before you take a sip.</item>
+        <item>A ranger seeking a drink that mirrors the untamed. Perhaps my company could add a touch of wilderness to your evening?</item>
+        <item>p4</item>
+        <item>p5</item>
+        <item>p6</item>
+        <item>p7</item>
+        <item>p8</item>
+        <item>p9</item>
+        <item>p10</item>
+        <item>p11</item>
+        <item>p12</item>
+    </string-array>
+    <string-array name="cedric_resp">
+        <item>r1</item>
+        <item>r2</item>
+        <item>r3</item>
+        <item>r4</item>
+        <item>r5</item>
+        <item>r6</item>
+        <item>r7</item>
+        <item>r8</item>
+        <item>r9</item>
+        <item>r10</item>
+        <item>r11</item>
+        <item>r12</item>
+
+    </string-array>
+    <integer-array name="cedric_tip">
+        <item>1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>5</item>
+        <item>10</item>
+        <item>6</item>
+        <item>12</item>
+        <item>2</item>
+        <item>16</item>
+        <item>20</item>
+        <item>6</item>
+        <item>32</item>
+    </integer-array>
+</resources>
